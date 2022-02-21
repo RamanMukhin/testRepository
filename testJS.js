@@ -1,1 +1,1 @@
-console.log("Ёу!!!!");
+console.log("Ёу!");
